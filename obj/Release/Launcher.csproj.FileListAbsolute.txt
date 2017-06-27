@@ -1,0 +1,20 @@
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.Form1.resources
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.exe
+C:\Users\eseiker\Documents\Visual Studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.pdb
+D:\Game\Maple\Launcher\Launcher\bin\Release\Launcher.exe
+D:\Game\Maple\Launcher\Launcher\bin\Release\Launcher.pdb
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.Form1.resources
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.exe
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.pdb
+D:\Game\Maple\Launcher\Launcher\obj\Release\Launcher.csprojResolveAssemblyReference.cache
+D:\Game\Maple\Launcher\Launcher\bin\Release\Newtonsoft.Json.dll
+D:\Game\Maple\Launcher\Launcher\bin\Release\Newtonsoft.Json.xml
